@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.huizi-86.myfirstplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.huizi-86.myfirstplugin.MyBundle
 
 class MyApplicationService {
 
